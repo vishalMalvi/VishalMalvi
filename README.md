@@ -6,12 +6,12 @@
 <picture> <img align="right" src="https://user-images.githubusercontent.com/97470591/211007344-adf1cb3d-93d9-447a-af88-29403126c5c1.gif" width = 250px></picture>
 
 ### 
-- 🧑🏽‍💻 I’m currently working on iOS development
-- 📚 I’m currently: learning SwiftUI
-- 💬 Ask me about: Swift , Objective-c , UIKit
+- 🧑🏽‍💻 I’m currently working on iOS development.
+- 📚 I’m currently: learning SwiftUI.
+- 💬 Ask me about: Swift , Objective-c , UIKit.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ My interests: iOS development, playing video games and Photography.
-- 💻 Outside tech:  listen to music 🎵 and explore nature outdoors 🌴.
+- 💻 Outside tech: explore nature outdoors 🌴.
 
 📫  Feel free to reach me:
 
