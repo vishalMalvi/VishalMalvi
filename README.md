@@ -11,7 +11,7 @@
 - 💬 Ask me about: Swift , Objective-c , UIKit.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ My interests: iOS development, playing video games and Photography.
-- 💻 Outside tech: explore nature outdoors 🌴.
+- 💻 Outside tech: Exploring the nature outdoors 🌴.
 
 📫  Feel free to reach me:
 
