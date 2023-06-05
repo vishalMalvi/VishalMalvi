@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Vishal Malvi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center"> An iOS developer 🧑🏽‍💻 with a love for creating intuitive and user-friendly apps. With a strong background in Swift and UIKit. </h3>
+<h3 align="center"> An iOS developer 🧑🏽‍💻 with a love for creating intuitive and user-friendly apps. With a strong background in Swift, UIKit and SwiftUI. </h3>
 
 ## **About me**
 <picture> <img align="right" src="https://user-images.githubusercontent.com/97470591/211007344-adf1cb3d-93d9-447a-af88-29403126c5c1.gif" width = 250px></picture>
