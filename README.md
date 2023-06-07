@@ -8,7 +8,7 @@
 ### 
 - 🧑🏽‍💻 I’m currently working on iOS development.
 - 📚 I’m currently: Experimenting SwiftUI.
-- 💬 Ask me about: Swift , Objective-c , UIKit.
+- 💬 Ask me about: Swift, UIKit, SwiftUI and Objective-C.
 - 💪🏼 Future Goals: Explore more technologies - Never stop creating new ideas.
 - ⚡ My interests: iOS development, playing video games and Photography.
 - 💻 Outside tech: Exploring the nature outdoors 🌴.
