@@ -15,6 +15,6 @@
 
 📫  Feel free to reach me:
 
-[![Email](https://img.shields.io/badge/Email-%40vishal7malvi@gmail.com%20-blue)](mailto:vishal7malvi@gmail.com?)
-[![Linkedin: vishal-malvi-587511125/](https://img.shields.io/badge/-VishalMalvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishal-malvi-587511125/)](https://www.linkedin.com/in/vishal-malvi-587511125/)
+<!--- [![Email](https://img.shields.io/badge/Email-%40vishal7malvi@gmail.com%20-blue)](mailto:vishal7malvi@gmail.com?)  -->
+<!--- [![Linkedin: vishal-malvi-587511125/](https://img.shields.io/badge/-VishalMalvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishal-malvi-587511125/)](https://www.linkedin.com/in/vishal-malvi-587511125/)  -->
 <!--- [![Twitter: VishalMalvi_](https://img.shields.io/twitter/follow/VishalMalvi_?style=social)](https://twitter.com/VishalMalvi_) -->
